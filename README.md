@@ -10,14 +10,14 @@ Given a sorted array arr[] of N integers and a number K is given. The task is to
 ```
 Given a sorted array with possibly duplicate elements, the task is to find indexes of first and last occurrences of an element x in the given array.
 ```
-3. **Number of occurrence ** [Solution](https://github.com/akshaypatidar26/Binary-search/blob/master/Binary%20search%20solutions/Number%20of%20occurrence)
+3. **Number of occurrence** [Solution](https://github.com/akshaypatidar26/Binary-search/blob/master/Binary%20search%20solutions/Number%20of%20occurrence)
 * [Problem](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0)
 ```
 Given a sorted array A of size N and a number X, you need to find the number of occurrences of X in A.
 
 ```
-4. **Find the Rotation Count in Rotated Sorted array** [Solution] ()
-* [Problem] (https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
+4. **Find the Rotation Count in Rotated Sorted array** [Solution]()
+* [Problem](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
 ```
 Given a sorted array A of size N. The array is rotated 'K' times. Find the value of 'K'. The array may contain duplicate elements.
 ```
