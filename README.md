@@ -8,3 +8,5 @@ Given a sorted array arr[] of N integers and a number K is given. The task is to
 2. **First and last occurrences of X**  [ Solution ](https://github.com/akshaypatidar26/Binary-search/blob/master/Binary%20search%20solutions/First%20and%20last%20occurrences%20of%20X)
 * [Problem](https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/) 
 ```
+Given a sorted array with possibly duplicate elements, the task is to find indexes of first and last occurrences of an element x in the given array.
+```
