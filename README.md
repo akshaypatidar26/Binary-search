@@ -21,3 +21,9 @@ Given a sorted array A of size N and a number X, you need to find the number of 
 ```
 Given a sorted array A of size N. The array is rotated 'K' times. Find the value of 'K'. The array may contain duplicate elements.
 ```
+5. **Floor in a Sorted Array** [Solution](https://github.com/akshaypatidar26/Binary-search/blob/master/Binary%20search%20solutions/Floor%20in%20a%20Sorted%20Array)
+* [Problem](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)
+```
+Given a sorted array arr[] of size N without duplicates, and given a value x. Find the floor of x in given array. Floor of x is defined as the largest element K in arr[] such that K is smaller than or equal to x.
+```
+
